@@ -34,6 +34,7 @@
 }
 
 .style__switcher-title {
+  color: hsl(0, 0%, 40%);
   font-size: var(--small-font-size);
   font-weight: var(--weight-600);
   border-bottom: 1px solid hsl(0, 0%, 87%);
